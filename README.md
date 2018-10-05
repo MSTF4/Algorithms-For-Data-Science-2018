@@ -3,4 +3,4 @@
 ***hi!***
 
 ### README.md
-***This file describes your project!***
+***This file describes a project!***
