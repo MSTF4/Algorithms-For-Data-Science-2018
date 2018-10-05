@@ -3,4 +3,4 @@
 ***hi!***
 
 ### What is ***README.md*** ?
-**This file describes a project*
+*This file describes a project*
