@@ -2,5 +2,5 @@
 
 ***hi!***
 
-### Whatis ***README.md*** ?
+### What is ***README.md*** ?
 ***This file describes a project!***
