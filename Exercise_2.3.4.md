@@ -4,4 +4,4 @@
 ### solution :
 
 ##### MAP:    for any satisfactory tuple a,return a key-value as (a,V);
-##### REDUCE: for each the same key,create key-value (a,[V,V,..,V]) and return (a,sum[1,...,1]).
+##### REDUCE: for each the same key,create key-value (a,[V,V,..,V]) and return (a,sum[V,...,V]).
