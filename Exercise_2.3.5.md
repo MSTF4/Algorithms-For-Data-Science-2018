@@ -4,5 +4,5 @@
 
 ### solution :
 
-##### MAP:    take Key-Value ((c,d),V) and (a,b) then return ((b,c,d),V);
-##### REDUCE: for each ((b,c,d),k) ,if b<c return (a,b,c,d).
+##### MAP:    take Key-Value ((c , d) , V) and (a , b) then return ((b , c , d) , V);
+##### REDUCE: for each ((b , c , d) , k) ,if b<c return (a , b , c , d).
