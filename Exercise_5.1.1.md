@@ -74,9 +74,9 @@
 #################################
 ### V_(12)=                          
            [0.2299  
-            0.3069  
-            0.4602]    ##
+            0.3066  
+            0.4600]    ##
 #################################
 
 
-## NOTE: After 10 repetitions vector V do not change!
+## NOTE: After 10 step vector V does not have a big change!
