@@ -6,7 +6,7 @@
 
 ### -We know that each node links to n-1 other nodes;
 ### -By deleting dead nodes, each node links to n-2 other nodes;
-### -So we have n node and V vector is:
+### -We have n node and V vector is:
 ### V_(0) = 
             [ 1/n
               1/n
@@ -16,7 +16,8 @@
               1/n ];
           
 ### Note: V vector is n*1;
-### -M = 
+### -So M matrix is:
+###  M = 
          |   0      1/n-2     ...     1/n-2 |
          | 1/n-2      0       ...     1/n-2 |
          |   .             .            .   |
