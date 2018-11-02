@@ -7,7 +7,8 @@
 ### -We know that each node links to n-1 other nodes;
 ### -By deleting dead nodes, each node links to n-2 other nodes;
 ### -So we have n node and V vector is:
-### V_(0) = [ 1/n
+### V_(0) = 
+            [ 1/n
               1/n
                .
                .
@@ -25,9 +26,9 @@
           
 ### -Note:M is a matrix n*n and All elements main diameter of M matrix is zero;
 
-### V′(i)=βMV(i)+((1−β)e/n);
+### -V′(i)=βMV(i)+((1−β)e/n);
 
-### V′_(i)=
+### -V′_(i)=
             | (n-1)/(n(n-2)) |
             |       .        |
             |       .        |
